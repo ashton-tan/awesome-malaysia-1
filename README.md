@@ -302,6 +302,7 @@ A curated list of awesome tech resources in Malaysia. By Communities For Communi
 - [WorldBank](https://data.worldbank.org/country/malaysia)
 ### Others
 - [Malaysia Artificial Intelligence (Malaysia AI)](https://github.com/malaysia-ai)
+- [NegaraKu.md — Malaysia Knowledge Base](https://huggingface.co/datasets/negaraku-md/negaraku-md)
 ## Contributing and License
 
 Kindly refer [Contribution Guidelines](CONTRIBUTING.md) guide for details.
